@@ -65,19 +65,10 @@
 
 <div align="left">  
   <a href="https://git-scm.com/" target="_blank"><img style="margin-right: 20px; margin-bottom: 15px;" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-  <a href="https://github.com/" target="_blank"><img style="margin-right: 20px; margin-bottom: 15px;" src="https://profilinator.rishav.dev/skills-assets/github.svg" alt="GitHub" height="50" /></a>  
+  <a href="[https://github.com/](https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original)" target="_blank"><img style="margin-right: 20px; margin-bottom: 15px;" src="https://profilinator.rishav.dev/skills-assets/github.svg" alt="GitHub" height="50" /></a>  
   <a href="https://www.postman.com/" target="_blank"><img style="margin-right: 20px; margin-bottom: 15px;" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" height="40" /></a>  
-  <a href="https://code.visualstudio.com/" target="_blank"><img style="margin-right: 20px; margin-bottom: 15px;" src="https://profilinator.rishav.dev/skills-assets/vscode-original.svg" alt="VS Code" height="50" /></a>  
+  <a href="[https://code.visualstudio.com/](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/250px-Visual_Studio_Code_1.35_icon.svg.png?utm_source=commons.wikimedia.org&utm_campaign=parser&utm_content=thumbnail)" target="_blank"><img style="margin-right: 20px; margin-bottom: 15px;" src="https://profilinator.rishav.dev/skills-assets/vscode-original.svg" alt="VS Code" height="50" /></a>  
   <a href="https://www.figma.com/" target="_blank"><img style="margin-right: 20px; margin-bottom: 15px;" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-</div>
-
-<br/>
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=false" alt="Ganesh's GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="170"/>
 </div>
 
 <br/>
@@ -101,9 +92,3 @@
 
 <br/>
 
-### Dev Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote">
-</div>
-
-<br/>
