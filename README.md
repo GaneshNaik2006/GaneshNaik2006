@@ -19,61 +19,61 @@
 
 <br/>  
 
-## Skill Set
+## <div align="center">Skill Set</div>
 
 <br/>
 
-### Programming Languages  
+### <div align="center">Programming Languages</div>
 
-<div align="left">  
-  <a href="https://www.cprogramming.com/" target="_blank"><img style="margin-right: 20px; margin-bottom: 15px;" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-  <a href="https://www.cplusplus.com/" target="_blank"><img style="margin-right: 20px; margin-bottom: 15px;" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
+<div align="center">  
+  <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 12px;" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
+  <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 12px;" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 </div>
 
 <br/>
 
-### Web & Mobile Technologies  
+### <div align="center">Web & Mobile Technologies</div>
 
-<div align="left">  
-  <a href="https://www.javascript.com/" target="_blank"><img style="margin-right: 20px; margin-bottom: 15px;" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img style="margin-right: 20px; margin-bottom: 15px;" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img style="margin-right: 20px; margin-bottom: 15px;" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-  <a href="https://reactjs.org/" target="_blank"><img style="margin-right: 20px; margin-bottom: 15px;" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-  <a href="https://reactnative.dev/" target="_blank"><img style="margin-right: 20px; margin-bottom: 15px;" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React Native" height="50" /></a>  
-  <a href="https://nodejs.org/" target="_blank"><img style="margin-right: 20px; margin-bottom: 15px;" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-  <a href="https://expressjs.com/" target="_blank"><img style="margin-right: 20px; margin-bottom: 15px;" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express" height="50" /></a>  
-  <a href="https://redux.js.org/" target="_blank"><img style="margin-right: 20px; margin-bottom: 15px;" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-  <a href="https://tailwindcss.com/" target="_blank"><img style="margin-right: 20px; margin-bottom: 15px;" src="https://profilinator.rishav.dev/skills-assets/tailwindcss-plain.svg" alt="Tailwind CSS" height="50" /></a>  
-  <a href="https://vitejs.dev/" target="_blank"><img style="margin-right: 20px; margin-bottom: 15px;" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" height="40" /></a>  
+<div align="center">  
+  <a href="https://www.javascript.com/" target="_blank"><img style="margin: 12px;" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img style="margin: 12px;" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img style="margin: 12px;" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+  <a href="https://reactjs.org/" target="_blank"><img style="margin: 12px;" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+  <a href="https://reactnative.dev/" target="_blank"><img style="margin: 12px;" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React Native" height="50" /></a>  
+  <a href="https://nodejs.org/" target="_blank"><img style="margin: 12px;" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+  <a href="https://expressjs.com/" target="_blank"><img style="margin: 12px;" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express" height="50" /></a>  
+  <a href="https://redux.js.org/" target="_blank"><img style="margin: 12px;" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
+  <a href="https://tailwindcss.com/" target="_blank"><img style="margin: 12px;" src="https://profilinator.rishav.dev/skills-assets/tailwindcss-plain.svg" alt="Tailwind CSS" height="50" /></a>  
+  <a href="https://vitejs.dev/" target="_blank"><img style="margin: 12px;" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" height="40" /></a>  
 </div>
 
 <br/>
 
-### Databases & Backend Tools  
+### <div align="center">Databases & Backend Tools</div>
 
-<div align="left">  
-  <a href="https://www.postgresql.org/" target="_blank"><img style="margin-right: 20px; margin-bottom: 15px;" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-  <a href="https://supabase.com/" target="_blank"><img style="margin-right: 20px; margin-bottom: 15px;" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" height="40" /></a>  
-  <a href="https://redis.io/" target="_blank"><img style="margin-right: 20px; margin-bottom: 15px;" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
-  <a href="https://firebase.google.com/" target="_blank"><img style="margin-right: 20px; margin-bottom: 15px;" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-  <a href="https://appwrite.io/" target="_blank"><img style="margin-right: 20px; margin-bottom: 15px;" src="https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white" alt="Appwrite" height="40" /></a>  
+<div align="center">  
+  <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 12px;" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
+  <a href="https://supabase.com/" target="_blank"><img style="margin: 12px;" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" height="40" /></a>  
+  <a href="https://redis.io/" target="_blank"><img style="margin: 12px;" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
+  <a href="https://firebase.google.com/" target="_blank"><img style="margin: 12px;" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
+  <a href="https://appwrite.io/" target="_blank"><img style="margin: 12px;" src="https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white" alt="Appwrite" height="40" /></a>  
 </div>
 
 <br/>
 
-### Developer Tools & CS Fundamentals  
+### <div align="center">Developer Tools & CS Fundamentals</div>
 
-<div align="left">  
-  <a href="https://git-scm.com/" target="_blank"><img style="margin-right: 20px; margin-bottom: 15px;" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-  <a href="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" target="_blank"><img style="margin-right: 20px; margin-bottom: 15px;" src="https://profilinator.rishav.dev/skills-assets/github.svg" alt="GitHub" height="50" /></a>  
-  <a href="https://www.postman.com/" target="_blank"><img style="margin-right: 20px; margin-bottom: 15px;" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" height="40" /></a>  
-  <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/250px-Visual_Studio_Code_1.35_icon.svg.png?utm_source=commons.wikimedia.org&utm_campaign=parser&utm_content=thumbnail" target="_blank"><img style="margin-right: 20px; margin-bottom: 15px;" src="https://profilinator.rishav.dev/skills-assets/vscode-original.svg" alt="VS Code" height="50" /></a>  
-  <a href="https://www.figma.com/" target="_blank"><img style="margin-right: 20px; margin-bottom: 15px;" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
+<div align="center">  
+  <a href="https://git-scm.com/" target="_blank"><img style="margin: 12px;" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+  <a href="https://github.com/" target="_blank"><img style="margin: 12px;" src="https://profilinator.rishav.dev/skills-assets/github.svg" alt="GitHub" height="50" /></a>  
+  <a href="https://www.postman.com/" target="_blank"><img style="margin: 12px;" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" height="40" /></a>  
+  <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 12px;" src="https://profilinator.rishav.dev/skills-assets/vscode-original.svg" alt="VS Code" height="50" /></a>  
+  <a href="https://www.figma.com/" target="_blank"><img style="margin: 12px;" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 </div>
 
 <br/>
 
-## Connect With Me
+## <div align="center">Connect With Me</div>
 
 <div align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
@@ -91,4 +91,3 @@
 </div>
 
 <br/>
-
