@@ -3,23 +3,23 @@
 </div> 
 </br>
 
-## <div align="center">I'm a Full-Stack Developer & Systems Programmer 👨‍💻 <br> Currently Studying at IIT Bhubaneswar 🚀</div>  
+## <div align="center">Full-Stack Developer & Systems Programmer <br> Currently Studying at IIT Bhubaneswar</div>  
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am a passionate Computer Science student at IIT Bhubaneswar with experience in building scalable web & mobile platforms, architecting REST APIs, and systems programming. I enjoy solving complex algorithmic challenges, integrating cloud BaaS solutions, and crafting seamless user experiences. Always eager to learn, innovate, and collaborate on impactful engineering projects.
 
-- 🎓 **Education:** B.Tech in Computer Science & Engineering at **IIT Bhubaneswar** (CGPA: 7.68/10.0)
-- 🔭 **Current Focus:** Building **Helios — Campus Utility & Services Platform** & scalable web applications
-- 🌱 **Learning & Refining:** Full-Stack Web Development, Cloud BaaS (Supabase, Firebase, Appwrite), and Systems Architecture in C++
-- 💻 **Competitive Programming:** Solved **340+ DSA problems** on LeetCode
-- ⚡ **Positions of Responsibility:** Web Coordinator for **Pravaah (IIT Bhubaneswar Fest)** & Video Editor at **Cinewave**
-- 📃 **Resume:** [Click here to view my resume](https://drive.google.com/file/d/YOUR_RESUME_LINK/view?usp=sharing)
-- 📫 **Reach Me:** [24cs01038@iitbbs.ac.in](mailto:24cs01038@iitbbs.ac.in) | +91 7013370225
-- ❓ **Ask Me About:** React Native, React.js, Node.js/Express, C++, REST APIs, Supabase, Redis
-- 🤝 **Let’s Collaborate:** Open to projects in Full-Stack Web/Mobile Development & Systems Programming
+- **Education:** B.Tech in Computer Science & Engineering at **IIT Bhubaneswar** (CGPA: 7.68/10.0)
+- **Current Focus:** Building **Helios — Campus Utility & Services Platform** & scalable web applications
+- **Learning & Refining:** Full-Stack Web Development, Cloud BaaS (Supabase, Firebase, Appwrite), and Systems Architecture in C++
+- **Competitive Programming:** Solved **340+ DSA problems** on LeetCode
+- **Positions of Responsibility:** Web Coordinator for **Pravaah (IIT Bhubaneswar Fest)** & Video Editor at **Cinewave**
+- **Resume:** [Click here to view my resume](https://drive.google.com/file/d/YOUR_RESUME_LINK/view?usp=sharing)
+- **Reach Me:** [24cs01038@iitbbs.ac.in](mailto:24cs01038@iitbbs.ac.in) | +91 7013370225
+- **Ask Me About:** React Native, React.js, Node.js/Express, C++, REST APIs, Supabase, Redis
+- **Let's Collaborate:** Open to projects in Full-Stack Web/Mobile Development & Systems Programming
 
 <br/>  
 
-## 🚀 Skill Set
+## Skill Set
 
 <table width="100%">
 <tr>
@@ -77,27 +77,27 @@
 
 <br/>  
 
-## 📌 Featured Projects
+## Featured Projects
 
-- 📱 **[Helios — Campus Utility & Services Platform](https://github.com/YOUR_GITHUB_USERNAME/helios)**
+- **[Helios — Campus Utility & Services Platform](https://github.com/YOUR_GITHUB_USERNAME/helios)**
   - Engineered a multi-platform campus management ecosystem (React Native student app, React.js admin portal, Node.js/Express backend).
   - Architected 20+ secure REST API routes with JWT authentication & RBAC handling timetable sync, grievances, sports court bookings, and emergency alerts.
   - Integrated Supabase PostgreSQL with Redis in-memory caching and built Multer multi-part upload pipelines for document verification.
   - Implemented FCM real-time push notifications and client-side OCR automated document scanning.
 
-- 📝 **[Full-Stack Blog Platform](https://github.com/YOUR_GITHUB_USERNAME/blog-platform)**
+- **[Full-Stack Blog Platform](https://github.com/YOUR_GITHUB_USERNAME/blog-platform)**
   - Built an end-to-end publishing platform with rich-text WYSIWYG editing, asset hosting, dynamic routing, and real-time feed updates.
   - Integrated Appwrite BaaS for user session management, document indexing, secure storage buckets, and document-level authorization.
   - Implemented global state management via Redux Toolkit and optimized client-side form validation using React Hook Form.
 
-- 🍱 **[Smart Hostel Mess Planner & Management System](https://github.com/YOUR_GITHUB_USERNAME/hostel-mess-planner)**
+- **[Smart Hostel Mess Planner & Management System](https://github.com/YOUR_GITHUB_USERNAME/hostel-mess-planner)**
   - Developed a modular console-based meal booking system in C++ implementing OOP principles (encapsulation, inheritance).
   - Engineered dedicated student and administrator modules for meal reservation, menu scheduling, billing, and cancellation audits.
   - Implemented persistent file serialization to log booking records, generate consumption audits, and automate billing summaries.
 
 <br/>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=false" alt="Ganesh's GitHub Stats" height="170"/>
@@ -106,7 +106,7 @@
 
 <br/>
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
@@ -125,7 +125,7 @@
 
 <br/>
 
-### ✍️ Dev Quote
+### Dev Quote
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote">
 </div>
