@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Kethavath%20Ganesh%20Naik&fontSize=42&animation=fadeIn&fontAlignY=38" align="center" width=100%/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Ganesh%20Naik%20Kethavath&fontSize=42&animation=fadeIn&fontAlignY=38" align="center" width=100%/>
 </div> 
 </br>
 
